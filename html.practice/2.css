@@ -1,0 +1,10 @@
+th,td{
+    padding: 10px;
+    border: 1px solid gray;
+}
+table{
+    border: 1px solid gray;
+}
+td:last-child{
+    width: 200px;
+}

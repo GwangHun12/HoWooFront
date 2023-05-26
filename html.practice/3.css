@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+       text-align: center;
+       caption-side: bottom;
+}
+th,td{
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+   
+}
+.class{
+    background-color:gainsboro;
+}
